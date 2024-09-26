@@ -4,3 +4,4 @@ This is a simple and functional app to react to the weather using openweathermap
 ## You Can Watch it online at ---->
 https://weather-app516.netlify.app
 
+![Immagine 2024-09-26 161838](https://github.com/user-attachments/assets/7f14c77c-72b9-4d2d-bc4f-6ef058e3bcb0)
